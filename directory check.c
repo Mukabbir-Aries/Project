@@ -49,7 +49,7 @@ time_t t;
 	printf("\nWhat do you want to do?");
 	printf("\n\n1.Register your account");
 	printf("\n2.Login to your account");
-	printf("\n3.Account List'\n");
+	printf("\n3.Account List's\n");
 	printf("\n\nPlease enter your choice:\t");
 	scanf("%d",&opt);
 	if(opt==3){
